@@ -13,9 +13,10 @@
 
 <p align="center">
   <a href="https://instagram.com/merahijau.id" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
- Follow </a>
+    <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Follow" />
+  </a>
 </p>
+
 
 ---
 
