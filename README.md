@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://instagram.com/merahijau.id" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" />
   </a>
 </p>
 
