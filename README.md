@@ -25,7 +25,7 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://dev.to/amrunkhakim" target="_blank">
+  <a href="https://dev.to/amrun_khakim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
   </a>
   <a href="https://instagram.com/merahijau.id" target="_blank">
